@@ -69,8 +69,4 @@ Book-Recommendation-Chatbot/
 🔗 [GitHub](https://github.com/shreyakesharwani-7) | [LinkedIn](https://www.linkedin.com/in/shreyakesharwani70/) | [GFG](https://www.geeksforgeeks.org/user/shreyakesharwani/)
 
 
-- Deployment guide using Node.js or Webhook
 - Additional intents/entities setup guide
-
-I can generate the markdown file for you too if needed.
-```
